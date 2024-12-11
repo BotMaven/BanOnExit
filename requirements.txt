@@ -1,0 +1,3 @@
+aiohttp
+pyrotgfork[fast]
+python-dotenv
